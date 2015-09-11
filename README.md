@@ -2,7 +2,7 @@
 
 ## Build status:
 
-![Build status](https://travis-ci.org/iluwatar/Python_Design_Patterns.svg?branch=master)
+![Build status](https://travis-ci.org/ycc1107/Python_Design_Patterns.svg?branch=master)
 
 ## Introduction
 
